@@ -29,9 +29,8 @@ import cn.atrip.framework.common.constant.LogConstant;
 import cn.atrip.framework.common.constant.LoginConstant;
 
 /**
- * 
  * @描述:
- * @作者: Kevin Xie
+ * @作者: Jerry Wang
  * @创建时间: 2016年10月10日
  * @版本: 1.0
  */

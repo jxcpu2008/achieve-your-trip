@@ -32,7 +32,6 @@
 				/api-docs/**=anon
 				/**=authc
 			</value>
-
 		</property>
 	</bean>
 
@@ -43,6 +42,7 @@
 		<property name="realm" ref="myRealm" />
 		<property name="sessionManager" ref="sessionManager" />
 	</bean>
+	
 	<bean id="sessionManager" class="org.apache.shiro.web.session.mgt.DefaultWebSessionManager"></bean>
 	<!-- <bean id="cacheManager" class="org.apache.shiro.cache.MemoryConstrainedCacheManager" /> -->
 	<bean id="cacheManager" class="org.apache.shiro.cache.ehcache.EhCacheManager" />
@@ -52,6 +52,7 @@
 	<bean id="myRealm" class="cn.atrip.app.web.auth.realm.ShiroDBRealm">
 		<property name="credentialsMatcher" ref="sha256Matcher"></property>
 	</bean>
+	
 	<bean id="sha256Matcher" class="org.apache.shiro.authc.credential.HashedCredentialsMatcher">
 		<property name="hashAlgorithmName" value="SHA-256"></property>
 		<property name="storedCredentialsHexEncoded" value="false"></property>
