@@ -1,0 +1,16 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>atrip.springcloud</groupId>
+    <artifactId>atrip-spring-cloud-demo</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+  </parent>
+  <artifactId>atrip-spring-cloud-demo-config</artifactId>
+  <packaging>pom</packaging>
+  <name>atrip-spring-cloud-demo-config</name>
+  <description>atrip spring cloud config demo module</description>
+  <modules>
+  	<module>atrip-spring-cloud-demo-config-server</module>
+  	<module>atrip-spring-cloud-demo-config-client</module>
+  </modules>
+</project>
