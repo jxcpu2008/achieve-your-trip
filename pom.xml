@@ -25,6 +25,9 @@
 		
 		<!-- application projects will be listed here -->
 		<module>app/pom.xml</module>
+		
+		<!-- spring boot related project will be listed here -->
+		<module>spring-boot/pom.xml</module>
 	</modules>
 	
 	
