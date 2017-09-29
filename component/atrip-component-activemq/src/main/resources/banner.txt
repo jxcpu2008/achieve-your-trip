@@ -1,0 +1,16 @@
+YYYYYYY       YYYYYYY     OOOOOOOOO     DDDDDDDDDDDDD                  AAA         TTTTTTTTTTTTTTTTTTTTTTT         AAA               
+Y:::::Y       Y:::::Y   OO:::::::::OO   D::::::::::::DDD              A:::A        T:::::::::::::::::::::T        A:::A              
+Y:::::Y       Y:::::Y OO:::::::::::::OO D:::::::::::::::DD           A:::::A       T:::::::::::::::::::::T       A:::::A             
+Y::::::Y     Y::::::YO:::::::OOO:::::::ODDD:::::DDDDD:::::D         A:::::::A      T:::::TT:::::::TT:::::T      A:::::::A            
+YYY:::::Y   Y:::::YYYO::::::O   O::::::O  D:::::D    D:::::D       A:::::::::A     TTTTTT  T:::::T  TTTTTT     A:::::::::A           
+   Y:::::Y Y:::::Y   O:::::O     O:::::O  D:::::D     D:::::D     A:::::A:::::A            T:::::T            A:::::A:::::A          
+    Y:::::Y:::::Y    O:::::O     O:::::O  D:::::D     D:::::D    A:::::A A:::::A           T:::::T           A:::::A A:::::A         
+     Y:::::::::Y     O:::::O     O:::::O  D:::::D     D:::::D   A:::::A   A:::::A          T:::::T          A:::::A   A:::::A        
+      Y:::::::Y      O:::::O     O:::::O  D:::::D     D:::::D  A:::::A     A:::::A         T:::::T         A:::::A     A:::::A       
+       Y:::::Y       O:::::O     O:::::O  D:::::D     D:::::D A:::::AAAAAAAAA:::::A        T:::::T        A:::::AAAAAAAAA:::::A      
+       Y:::::Y       O:::::O     O:::::O  D:::::D     D:::::DA:::::::::::::::::::::A       T:::::T       A:::::::::::::::::::::A     
+       Y:::::Y       O::::::O   O::::::O  D:::::D    D:::::DA:::::AAAAAAAAAAAAA:::::A      T:::::T      A:::::AAAAAAAAAAAAA:::::A    
+       Y:::::Y       O:::::::OOO:::::::ODDD:::::DDDDD:::::DA:::::A             A:::::A   TT:::::::TT   A:::::A             A:::::A   
+    YYYY:::::YYYY     OO:::::::::::::OO D:::::::::::::::DDA:::::A               A:::::A  T:::::::::T  A:::::A               A:::::A  
+    Y:::::::::::Y       OO:::::::::OO   D::::::::::::DDD A:::::A                 A:::::A T:::::::::T A:::::A                 A:::::A 
+    YYYYYYYYYYYYY         OOOOOOOOO     DDDDDDDDDDDDD   AAAAAAA                   AAAAAAATTTTTTTTTTTAAAAAAA                   AAAAAAA
